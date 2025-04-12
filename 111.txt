@@ -2,7 +2,7 @@
 using namespace std;
 
 #include <Qdebug>
-
+#include <QMap>
 int main()
 {
 	cout<<"hello world"<<endl;
